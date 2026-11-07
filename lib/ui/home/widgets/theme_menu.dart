@@ -4,6 +4,7 @@ import 'package:provider/provider.dart';
 import '../../../core/providers/theme_provider.dart';
 
 class ThemeMenu extends StatelessWidget{
+  const ThemeMenu({super.key});
   @override
   Widget build(BuildContext context) {
     return Consumer<ThemeProvider>(

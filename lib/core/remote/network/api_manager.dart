@@ -1,8 +1,8 @@
 import 'package:dio/dio.dart';
 import 'package:news_app/core/resources/app_constant.dart';
 
-import '../../../model/articles/Articles_response.dart';
-import '../../../model/sources/Source_response.dart';
+import '../../../model/articles/articles_response.dart';
+import '../../../model/sources/source_response.dart';
 
 class ApiManager {
   static Dio dio = Dio(

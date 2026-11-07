@@ -4,7 +4,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
-import '../../../../model/articles/Article.dart';
+import '../../../../model/articles/article.dart';
 import '../../home/widgets/articles/articles_item.dart';
 
 class SearchScreen extends StatefulWidget {

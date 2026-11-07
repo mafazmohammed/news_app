@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import '../../../../core/remote/network/api_manager.dart';
-import '../../../../model/articles/Article.dart';
+import '../../../../model/articles/article.dart';
 import 'articles_item.dart';
 class ArticlesList extends StatefulWidget {
 
